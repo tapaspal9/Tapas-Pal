@@ -3,7 +3,7 @@
 <head>
    <meta charset="utf-8" />
    <h1>Tapas Pal</h1>
-   <link rel="stylesheet" href="styles.css">
+   <link rel="stylesheet" type="text/css" href="https://tapaspal9.github.io/Tapas-Pal/styles.css">
 </head>
 <body>
   <div class="placeholder">
