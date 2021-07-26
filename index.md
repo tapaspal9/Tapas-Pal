@@ -5,34 +5,17 @@ I am a PhD student at the department of [Mathematics](http://www.iitkgp.ac.in/de
 
 I am currently a research intern at the [Cryptography and Information Security (CIS) Laboratories](https://ntt-research.com/cis/) at [NTT Research](https://ntt-research.com). During this internship I am working with Pratish in the area of functional encryption. I am planning to continue my postdoctoral research at NTT Japan.
 
-### Markdown
+### Recent News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Paper "Attribute-Based Access Control for Inner Product Functional Encryption from LWE" with co-author Ratna Dutta is accepted to LATINCRYPT 2021.
+2. I am awarded [ERCIM](https://www.ercim.eu) postdoctoral fellowship by the European Research Consortium for Informatics and Mathematics at [NTNU](https://www.ntnu.no) Norway. 
+3. Paper "Chosen Ciphertext Secure Functional Encryption from Constrained Witness PRF" with co-author Ratna Dutta is accepted to ACISP 2021.
+4. Paper "Chosen-Ciphertext Secure Attribute-Hiding Non-Zero Inner Product Encryptions and Its Applications" with co-author Ratna Dutta is accepted to ACISP 2021.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Contact
+Emails: tapas.real@gmail.com or 
+        tapas.pal@iitkgp.ac.in
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tapaspal9/Tapas-Webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
