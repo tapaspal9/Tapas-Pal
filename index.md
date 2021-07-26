@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Webpage!
 
-You can use the [editor on GitHub](https://github.com/tapaspal9/Tapas-Webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Introduction
+I am a PhD student at the department of [Mathematics](http://www.iitkgp.ac.in/department/MA) of [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in). Recently, I have submitted my doctoral thesis under the supervison of [Prof. Ratna Dutta](http://www.facweb.iitkgp.ac.in/~ratna/). My doctoral thesis presents provably secure advanced cryptographic primitives such as witness encryption, fully homomorphic encryption and functional encryption. I am a member of the [IIT KGP MATH-CRYPTO](https://www.kgpmathcrypto.com). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a research intern at the [Cryptography and Information Security (CIS) Laboratories](https://ntt-research.com/cis/) at [NTT Research](https://ntt-research.com). During this internship I am working with Pratish in the area of functional encryption. I am planning to continue my postdoctoral research at NTT Japan.
 
 ### Markdown
 
